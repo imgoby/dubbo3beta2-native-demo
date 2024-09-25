@@ -1,0 +1,110 @@
+[
+  {
+    "name": "org.apache.dubbo.spring.boot.autoconfigure.DubboRelaxedBinding2AutoConfiguration$$SpringCGLIB$$0",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.dubbo.spring.boot.autoconfigure.DubboAutoConfiguration$$SpringCGLIB$$0",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "com.alibaba.cloud.dubbo.registry.SpringCloudRegistryFactory",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "java.sql.Date",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": ["long" ]
+      }
+    ]
+  },
+  {
+    "name": "java.sql.Time",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": ["long" ]
+      }
+    ]
+  },
+  {
+    "name": "java.sql.Timestamp",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": ["long" ]
+      }
+    ]
+  },
+  {
+    "name": "com.alibaba.com.caucho.hessian.io.ClassFactory",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "org.springframework.boot.SpringApplication$AbandonedRunException",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  },
+  {
+    "name": "com.alibaba.cloud.dubbo.service.IntrospectiveDubboMetadataService",
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [ ]
+      }
+    ]
+  }
+]
