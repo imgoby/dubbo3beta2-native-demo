@@ -13,7 +13,7 @@
 <!--    </parent>-->
 
     <groupId>com.yuhoutian</groupId>
-    <artifactId>spring-cloud-alibaba-dubbo-native</artifactId>
+    <artifactId>dubbo3beta2-native-demo</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
     <name>Spring Cloud Alibaba</name>
